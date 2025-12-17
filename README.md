@@ -1,2 +1,2 @@
 # Final_Project_DSP
-This repository analyzes U.S. imports of all commodities using data from the U.S. Bureau of Labor Statistics. The project uses Python to clean, explore, and visualize import trends over time and identify key patterns in the data.
+This project analyzes U.S. imports of all commodities using data from the U.S. Bureau of Labor Statistics. I used Python and a Jupyter Notebook along with libraries such as pandas and matplotlib to clean, organize, and visualize the data. The analysis focuses on identifying trends and changes in import levels over time while practicing real-world data analysis skills using government data.
